@@ -6,6 +6,8 @@ Leveraged LSTM RNN model to generate image captions.
 
 Note: The Object_detection ppt contains all the outputs of the code. 
 
+
+
 Predicted outputs:
 
 ![xyz](https://github.com/ekantbagri/Dense_Captioning-/blob/main/Capture.PNG?raw=true)
