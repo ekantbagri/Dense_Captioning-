@@ -9,3 +9,11 @@ Note: The Object_detection ppt contains all the outputs of the code.
 Predicted outputs:
 
 ![xyz](https://github.com/ekantbagri/Dense_Captioning-/blob/main/Capture.PNG?raw=true)
+
+
+loss curve graph:
+
+
+![xyz](https://github.com/ekantbagri/Dense_Captioning-/blob/main/Capture1.PNG?raw=true)
+
+
