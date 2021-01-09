@@ -11,7 +11,7 @@ Predicted outputs:
 ![xyz](https://github.com/ekantbagri/Dense_Captioning-/blob/main/Capture.PNG?raw=true)
 
 
-loss curve graph:
+loss curve graph for VGG16:
 
 
 ![xyz](https://github.com/ekantbagri/Dense_Captioning-/blob/main/Capture1.PNG?raw=true)
